@@ -450,6 +450,7 @@
                       "api-reference/server/services/tts/bland",
                       "api-reference/server/services/tts/camb",
                       "api-reference/server/services/tts/cartesia",
+                      "api-reference/server/services/tts/chariot",
                       "api-reference/server/services/tts/deepdub",
                       "api-reference/server/services/tts/deepgram",
                       "api-reference/server/services/tts/elevenlabs",
@@ -1748,6 +1749,10 @@
     {
       "source": "/server/services/memory/synap",
       "destination": "/api-reference/server/services/memory/synap"
+    },
+    {
+      "source": "/server/services/tts/chariot",
+      "destination": "/api-reference/server/services/tts/chariot"
     },
     {
       "source": "/server/services/tts/deepdub",
